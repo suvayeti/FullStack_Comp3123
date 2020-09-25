@@ -1,4 +1,4 @@
-//TODO - Create Employee Module here and export to use in index.js
+//TODO - Create Employee Module here, export to use in index.js
 
 module.exports.employees = [
     {id: 1, firstName: "Pritesh", lastName: "Patel", email: "pritesh@gmail.com", Salary:5000},
